@@ -14,8 +14,8 @@ import {
 import Providers from "@/app/Providers";
 
 export const metadata: Metadata = {
-  title: "Cafe",
-  description: "Cafe",
+  title: "template2",
+  description: "template2",
   icons: [{ rel: "icon", url: "/images/home/hero/logo.png", sizes: "11x11" }],
 };
 
